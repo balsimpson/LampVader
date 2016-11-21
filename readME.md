@@ -9,7 +9,6 @@
 ##### IFTTT Triggers with thinger.io
 
 #### Working
-'vnbv'
 
 For Notifications 'Service' + 'number' will be the unique key.
 
@@ -84,3 +83,4 @@ Some way a log should be maintained of all the commands being executed with time
 `notification_priority`
 
 [color palettes](http://www.fubiz.net/en/2015/04/20/the-colors-of-star-wars-palettes/)
+# LampVader

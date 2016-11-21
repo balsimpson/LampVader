@@ -5,7 +5,7 @@
 - Notifications
 - Time based
 - User controlled
-
+some changes
 ##### IFTTT Triggers with thinger.io
 
 #### Working
